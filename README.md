@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Stata and R**
 
-- 📫 How to reach me **kannfa@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/karlabarcellos/?locale=en_US](https://www.linkedin.com/in/karlabarcellos/?locale=en_US)
 
 - ⚡ Fun fact **I love to write poetry**
