@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced R and Python**
 
-- 👯 I’m looking to collaborate on **projects related with housing and labour markets**
+- 👯 I’m looking to collaborate on **projects related with Machine Learning and AI techniques**
 
 - 👨‍💻 Some of my projects are available at [https://karlabarcellos.github.io/portfolio/](https://karlabarcellos.github.io/portfolio/)
 
