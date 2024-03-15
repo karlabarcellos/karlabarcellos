@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_karlabarcellos" target="blank"><img src="https://img.shields.io/twitter/follow/_karlabarcellos?logo=twitter&style=for-the-badge" alt="_karlabarcellos" /></a> </p>
 
-- 🔭 I’m currently working on **my Capstone Project for my Data Science Certification**
+- 🔭 I’m currently working on **multiple  Data Science projects: HR, financial and macroeconomics data**
 
 - 🌱 I’m currently learning **Advanced R and Python**
 
